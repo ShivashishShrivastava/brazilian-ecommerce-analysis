@@ -17,7 +17,7 @@
 - [Methods & Analysis](#-methods--analysis)
 - [Files in this Repository](#-files-in-this-repository)
 - [Tech Stack](#-tech-stack)
-- [Insights & Recommendations](-#insights--recommendations)
+- [Insights & Recommendations](#-insights--recommendations)
 
 ---
 
