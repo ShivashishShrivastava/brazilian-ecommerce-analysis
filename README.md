@@ -1,5 +1,6 @@
 
 
+
 # Target Brazil E-commerce Analysis (2016–2018)
 
 <img src="assets/A_2D_digital_graphic_design_banner_for_a_case_stud.png" alt="Project Banner" height="500">
@@ -96,6 +97,6 @@ The results of this project provide actionable insights into:
 
 📕 For detailed recommendations, see:  
 - [`Business_Case_Report`](Business_Case_Report.pdf)  
-- [`Summary_Insights`](Summary_Insights.pdf)  
+- [`Summary_Insights`](Summary_Insights.pdf)   
 
 ---
