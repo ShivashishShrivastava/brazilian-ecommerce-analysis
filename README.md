@@ -78,7 +78,7 @@ This repository is organized as follows:
   - SQL queries  
   - Query results (in image format)  
   - Short insights for each question  
-- 📑 **[Summary_Insights.md](Summary_Insights.md)** – In-depth insights and business recommendations.  
+- 📑 **[Summary_Insights.md](Summary_Insights.pdf)** – In-depth insights and business recommendations.  
 
 
 ---
@@ -100,8 +100,3 @@ The results of this project provide actionable insights into:
 - [`Summary_Insights`](Summary_Insights.pdf)  
 
 ---
-
-## 📬 Contact
-For questions or collaboration opportunities, feel free to connect with me:  
-- **LinkedIn:** [Your Profile](#)  
-- **Email:** your.email@example.com  
