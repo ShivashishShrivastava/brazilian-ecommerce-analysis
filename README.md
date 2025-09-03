@@ -2,7 +2,7 @@
 
 # Target Brazil E-commerce Analysis (2016–2018)
 
-![Project Banner](assets/A_2D_digital_graphic_design_banner_for_a_case_stud.png)
+<img src="assets/A_2D_digital_graphic_design_banner_for_a_case_stud.png" alt="Project Banner" height="100">
 
 ![BigQuery](https://img.shields.io/badge/SQL-BigQuery-blue?logo=googlecloud) 
 
