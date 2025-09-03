@@ -5,14 +5,13 @@
 ![Project Banner](assets/A_2D_digital_graphic_design_banner_for_a_case_stud.png)
 
 ![BigQuery](https://img.shields.io/badge/SQL-BigQuery-blue?logo=googlecloud) 
-![Power BI](https://img.shields.io/badge/BI-Power%20BI-yellow?logo=powerbi)
-![Python](https://img.shields.io/badge/Code-Python-green?logo=python)
+
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 ---
 
 ## 📑 Table of Contents
-- [About the Project](#about-the-project)
+- [About the Project](#About the Project)
 - [Dataset](#dataset)
 - [Key Business Questions](#key-business-questions)
 - [Methods & Analysis](#methods--analysis)
@@ -80,24 +79,12 @@ This repository is organized as follows:
   - Query results (in image format)  
   - Short insights for each question  
 - 📑 **[Summary_Insights.md](Summary_Insights.md)** – In-depth insights and business recommendations.  
-- 🖼️ **A_2D_digital_graphic_design_banner_for_a_case_stud.png** – Project banner.  
-- 📊 *(Optional)* Power BI Dashboard file (`dashboard.pbix`) – If included, provides interactive visualization of results.  
+
 
 ---
 
 ## 🛠 Tech Stack
 - **Google BigQuery** – SQL queries and large-scale data analysis  
-- **Power BI** – Dashboard visualization  
-- **Python** – Additional data exploration and analysis  
-
----
-
-## 🚀 How to Use
-1. Import the CSV files into **Google BigQuery**.  
-2. Run the SQL queries from [`queries.sql`](queries.sql).  
-3. Review the **PDF report** for query outputs and quick insights.  
-4. Explore the **Summary_Insights.md** file for detailed business insights.  
-5. (Optional) Open the Power BI file (`dashboard.pbix`) to interact with the dashboard.  
 
 ---
 
@@ -109,8 +96,8 @@ The results of this project provide actionable insights into:
 - Enhancing customer retention through payment flexibility.  
 
 📕 For detailed recommendations, see:  
-- [`Business_Case_Report.pdf`](Business_Case_Report.pdf)  
-- [`Summary_Insights.md`](Summary_Insights.md)  
+- [`Business_Case_Report`](Business_Case_Report.pdf)  
+- [`Summary_Insights`](Summary_Insights.pdf)  
 
 ---
 
