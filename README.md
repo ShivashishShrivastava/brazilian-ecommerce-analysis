@@ -14,12 +14,10 @@
 - [About the Project](#-about-the-project)
 - [Dataset](#-dataset)
 - [Key Business Questions](#-key-business-questions)
-- [Methods & Analysis](#-methods-analysis)
+- [Methods & Analysis](#-methods--analysis)
 - [Files in this Repository](#-files-in-this-repository)
 - [Tech Stack](#-tech-stack)
-- [How to Use](#-how-to-use)
-- [Insights & Recommendations](-#insights-recommendations)
-- [Contact](-#contact)
+- [Insights & Recommendations](-#insights--recommendations)
 
 ---
 
@@ -84,7 +82,8 @@ This repository is organized as follows:
 ---
 
 ## 🛠 Tech Stack
-- **Google BigQuery** – SQL queries and large-scale data analysis  
+- **Google BigQuery** – SQL queries and large-scale data analysis
+- **Google SpreadSheets** 
 
 ---
 
