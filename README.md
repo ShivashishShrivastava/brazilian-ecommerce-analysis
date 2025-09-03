@@ -83,7 +83,7 @@ This repository is organized as follows:
 
 ## 🛠 Tech Stack
 - **Google BigQuery** – SQL queries and large-scale data analysis
-- **Google SpreadSheets** 
+- **Google Sheets** 
 
 ---
 
