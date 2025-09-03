@@ -76,7 +76,7 @@ This repository is organized as follows:
   - SQL queries  
   - Query results (in image format)  
   - Short insights for each question  
-- 📑 **[Summary_Insights.md](Summary_Insights.pdf)** – In-depth insights and business recommendations.  
+- 📑 **[Summary_Insights.pdf](Summary_Insights.pdf)** – In-depth insights and business recommendations.  
 
 
 ---
