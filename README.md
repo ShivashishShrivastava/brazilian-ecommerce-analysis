@@ -14,12 +14,12 @@
 - [About the Project](#-about-the-project)
 - [Dataset](#-dataset)
 - [Key Business Questions](#-key-business-questions)
-- [Methods & Analysis](#methods-analysis)
-- [Files in this Repository](#files-in-this-repository)
-- [Tech Stack](#tech-stack)
-- [How to Use](#how-to-use)
-- [Insights & Recommendations](#insights-recommendations)
-- [Contact](#contact)
+- [Methods & Analysis](#-methods-analysis)
+- [Files in this Repository](#-files-in-this-repository)
+- [Tech Stack](#-tech-stack)
+- [How to Use](#-how-to-use)
+- [Insights & Recommendations](-#insights-recommendations)
+- [Contact](-#contact)
 
 ---
 
